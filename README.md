@@ -6,6 +6,12 @@ Add the forth line!
 Modify in master branch!
 Add master 1 line!hahah hehe ,the end!
 Another!
+<<<<<<< HEAD
 Hotfix desc....
 Hotfix second line.
 Hotfix fixed!
+=======
+Add something in branch iss53!
+add again!
+add at the end of branch iss53!
+>>>>>>> iss53
